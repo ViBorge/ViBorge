@@ -6,8 +6,6 @@
 - 🏫 Faculdade Puc-Minas Poços de Caldas 🏙️
 
 
-##
-
 <div>
     <a href="https://github.com/ViBorge">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViBorge&show_icons=true&theme=codeSTACKr&include_all_commmits=true&count_private=true" />
