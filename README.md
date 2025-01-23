@@ -9,7 +9,7 @@
 <div>
     <a href="https://github.com/ViBorge">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViBorge&show_icons=true&theme=codeSTACKr&include_all_commmits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViBorge&layout=compact&langs_count=16&theme=codeSTACKr" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViBorge&layout=compact&langs_count=20&theme=codeSTACKr" />
 </div>
 
 <div style="display: inline_block"><br>
